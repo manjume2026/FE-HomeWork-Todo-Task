@@ -1,7 +1,9 @@
-alert("Hi Manju");
-prompt("Please Enter your Name");
+alert("Welcome to Frontend Class!");
 
-console.log("Hi");
+let name = prompt("Please Enter your Name:");
+console.log("Hello", name);
+
 console.log(2 + 2);
 console.log(5 * 5);
-document.write("Hello");
+
+document.write("Hello How are you?");
